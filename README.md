@@ -10,6 +10,7 @@ For more information, please view my research page: [https://lynsay.me](https://
 
 ## Tools and Technologies
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/konpa/devicon@master/devicon.min.css">
+<i class="devicon-amazonwebservices-original"></i>
 
 
 
