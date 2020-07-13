@@ -1,7 +1,11 @@
 # Hello, I'm Dr Lynsay Shepherd
 
 ## About Me
-Lynsay is a Lecturer in cybersecurity and HCI at Abertay University, Dundee, and works within the Division of Cyber Security, in the School of Design and Informatics. Lynsay holds a PhD in Usable Security, an MSc in Internet Computing, and a BSc (Hons) in Computing.  Lynsay supervises a variety of projects at postgraduate level (MSc, MbR, PhD). If you are interested in any of the aforementioned research topics, please get in contact.
+* 👩‍💻Lecturer in Cybersecurity and HCI at Abertay University, Dundee.
+* 🎓PhD in Usable Security.
+* 🖥 Regularly work with web technologies and IoT devices.
+* 📝 Interested in collaboration or MbR/PhD supervision?  Get in touch:[mailto](mailto:lynsay.shepherd@abertay.ac.uk)
+
 
 ## Tools and Technologies
 
