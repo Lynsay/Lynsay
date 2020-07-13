@@ -9,6 +9,10 @@ For more information, please view my research page: [https://lynsay.me](https://
 
 
 ## Tools and Technologies
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/konpa/devicon@master/devicon.min.css">
+
+
+
 
 <!--
 **Lynsay/Lynsay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
