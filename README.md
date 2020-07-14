@@ -1,16 +1,16 @@
-# Hello, I'm Dr Lynsay Shepherd
+## Hello, I'm Dr Lynsay Shepherd
 For more information, please view my research page: [https://lynsay.me](https://lynsay.me)
 
-## About Me
+### About Me
 * 👩‍💻Lecturer in Cybersecurity and HCI at Abertay University, Dundee.
 * 🎓Research interests: cybersecurity, human-computer interaction, usable security, eye tracking, web technologies.
 * 🖥 Regularly work with web technologies and IoT devices.
 * 📝 Interested in collaboration or MbR/PhD supervision?  Get in touch: [lynsay.shepherd@abertay.ac.uk](mailto:lynsay.shepherd@abertay.ac.uk)
 
 
-## Tools and Technologies
+### Tools and Technologies
 
-### Platforms
+#### Platforms
 <img src="https://raw.githubusercontent.com/Lynsay/Lynsay/master/assets/platforms/apple.svg" alt="Apple Logo" height="27"/> <img src="https://raw.githubusercontent.com/Lynsay/Lynsay/master/assets/platforms/linux.svg" alt="Linux Logo" height="27"/> <img src="https://raw.githubusercontent.com/Lynsay/Lynsay/master/assets/platforms/windows.svg" alt="Windows Logo" height="27"/> <img src="https://raw.githubusercontent.com/Lynsay/Lynsay/master/assets/platforms/raspberrypi.svg" alt="Raspberry Pi Logo" height="27"/> <img src="https://raw.githubusercontent.com/Lynsay/Lynsay/master/assets/platforms/arduino.svg" alt="Arduino Logo" height="27"/>
 
 <!--
