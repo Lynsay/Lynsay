@@ -16,4 +16,14 @@
 #### Programming Languages
 
 #### Web Technologies
+<img src="https://raw.githubusercontent.com/Lynsay/Lynsay/master/assets/platforms/html5.svg" alt="HTML5 Logo" height="25"/>
+<img src="https://raw.githubusercontent.com/Lynsay/Lynsay/master/assets/platforms/css3.svg" alt="CSS3 Logo" height="25"/>
+<img src="https://raw.githubusercontent.com/Lynsay/Lynsay/master/assets/platforms/javascript.svg" alt="Javascript Logo" height="25"/>
+<img src="https://raw.githubusercontent.com/Lynsay/Lynsay/master/assets/platforms/jquery.svg" alt="jQuery Logo" height="25"/>
+<img src="https://raw.githubusercontent.com/Lynsay/Lynsay/master/assets/platforms/php.svg" alt="PHP Logo" height="25"/>
+<img src="https://raw.githubusercontent.com/Lynsay/Lynsay/master/assets/platforms/coldfusion.svg" alt="ColdFusion Logo" height="25"/>
+<img src="https://raw.githubusercontent.com/Lynsay/Lynsay/master/assets/platforms/asp.svg" alt="ASP.NET Logo" height="25"/>
+<img src="https://raw.githubusercontent.com/Lynsay/Lynsay/master/assets/platforms/apache.svg" alt="Apache Logo" height="25"/>
+
+#### Databases
 
