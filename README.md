@@ -11,7 +11,7 @@ For more information, please view my research page: [https://lynsay.me](https://
 ## Tools and Technologies
 
 ### Platforms
-<img src="assets/platforms/apple.svg" alt="Apple Logo" height="100"/>
+<img src="assets/platforms/apple.svg" alt="Apple Logo" height="50"/>
 
 <!--![Apple Logo](/assets/platforms/apple.svg | height=100) ![Linux Logo](/assets/platforms/linux.svg | height=100) ![Windows Logo](/assets/platforms/windows.svg | height=100)-->
 
