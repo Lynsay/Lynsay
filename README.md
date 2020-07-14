@@ -21,3 +21,5 @@
 
 #### Databases
 <img src="https://raw.githubusercontent.com/Lynsay/Lynsay/master/assets/databases/access.png" alt="Access Logo" height="27"/> <img src="https://raw.githubusercontent.com/Lynsay/Lynsay/master/assets/databases/mysql.svg" alt="MySQL Logo" height="30"/> <img src="https://raw.githubusercontent.com/Lynsay/Lynsay/master/assets/databases/mariadb.svg" alt="MariaDB Logo" height="27"/> <img src="https://raw.githubusercontent.com/Lynsay/Lynsay/master/assets/databases/oracle.svg" alt="Oracle Logo" height="30"/> 
+
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Lynsay.visitor-badge)
