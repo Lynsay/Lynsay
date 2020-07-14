@@ -1,5 +1,4 @@
 ## Hello, I'm Dr Lynsay Shepherd
-For more information, please view my research page: [https://lynsay.me](https://lynsay.me)
 
 ### About Me
 * 👩‍💻 Lecturer in Cybersecurity and HCI at Abertay University, Dundee.
