@@ -11,7 +11,7 @@ For more information, please view my research page: [https://lynsay.me](https://
 ## Tools and Technologies
 
 ### Platforms
-
+![Apple Logo](/assets/apple.svg) ![Linux Logo](/assets/linux.svg) ![Windows Logo](/assets/windows.svg)
 
 
 
