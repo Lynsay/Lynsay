@@ -10,15 +10,12 @@
 
 ### Tools and Technologies
 
-| Tools and Technologies|                            |
-| --------------------- | -------------------------- |
-| Platforms:            |                            |
-|                       |                            |
-| Programming Languages:|                            |
-|                       |                            |
-| Web Technologies:     |                            |
-|                       |                            |
-| Databases:            |                            |
+| # Tools and Technologies|                            |
+| ----------------------- | -------------------------- |
+| Platforms:              |                            |
+| Programming Languages:  |                            |
+| Web Technologies:       |                            |
+| Databases:              |                            |
 
 #### Platforms
 <img src="https://raw.githubusercontent.com/Lynsay/Lynsay/master/assets/platforms/apple.svg" alt="Apple Logo" height="27"/> <img src="https://raw.githubusercontent.com/Lynsay/Lynsay/master/assets/platforms/linux.svg" alt="Linux Logo" height="27"/> <img src="https://raw.githubusercontent.com/Lynsay/Lynsay/master/assets/platforms/windows.svg" alt="Windows Logo" height="27"/> <img src="https://raw.githubusercontent.com/Lynsay/Lynsay/master/assets/platforms/raspberrypi.svg" alt="Raspberry Pi Logo" height="27"/> <img src="https://raw.githubusercontent.com/Lynsay/Lynsay/master/assets/platforms/arduino.svg" alt="Arduino Logo" height="27"/>
