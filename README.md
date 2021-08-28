@@ -18,7 +18,7 @@
 
 ### Find any of these repos useful?
 
-<a href="https://ko-fi.com/lynsayshepherd"><img src="https://raw.githubusercontent.com/Lynsay/Lynsay/master/assets/buttons/BuyMeACoffee_blue.png" alt="Buy me a ko-fi button" height="27"/></a>
+<a href="https://ko-fi.com/lynsayshepherd"><img src="https://raw.githubusercontent.com/Lynsay/Lynsay/master/assets/buttons/BuyMeACoffee_blue.png" alt="Buy me a ko-fi button" height="35"/></a>
 
 <!--#### Platforms
 <img src="https://raw.githubusercontent.com/Lynsay/Lynsay/master/assets/platforms/apple.svg" alt="Apple Logo" height="27"/> <img src="https://raw.githubusercontent.com/Lynsay/Lynsay/master/assets/platforms/linux.svg" alt="Linux Logo" height="27"/> <img src="https://raw.githubusercontent.com/Lynsay/Lynsay/master/assets/platforms/windows.svg" alt="Windows Logo" height="27"/> <img src="https://raw.githubusercontent.com/Lynsay/Lynsay/master/assets/platforms/raspberrypi.svg" alt="Raspberry Pi Logo" height="27"/> <img src="https://raw.githubusercontent.com/Lynsay/Lynsay/master/assets/platforms/arduino.svg" alt="Arduino Logo" height="27"/>-->
