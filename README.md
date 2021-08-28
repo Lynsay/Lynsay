@@ -1,7 +1,7 @@
 ## Hello, I'm Dr Lynsay Shepherd
 
 ### About Me
-* 👩‍💻 Lecturer in Cybersecurity and HCI at Abertay University, Dundee.
+* 👩‍💻 Lecturer in Cybersecurity and Human-Computer Interaction at Abertay University, Dundee.
 * 🌍 Research page: [https://lynsay.me](https://lynsay.me)
 * 🎓 Research interests: cybersecurity, human-computer interaction, usable security, eye tracking, web technologies.
 * 🖥 Regularly work with web technologies and IoT devices.
