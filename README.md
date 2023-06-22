@@ -3,7 +3,7 @@
 ### About Me
 * 👩‍💻 Lecturer in Cybersecurity and Human-Computer Interaction
 * 🌍 Research page: [https://lynsay.me](https://lynsay.me)
-* 🎓 Research interests: cybersecurity, human-computer interaction, usable security, eye tracking, web technologies.
+* 🎓 Research interests: human-computer interaction, cybersecurity, usable security, eye tracking, web technologies.
 * 📝 Interested in collaboration or MbR/PhD supervision?  Get in touch: [lynsay.shepherd@abertay.ac.uk](mailto:lynsay.shepherd@abertay.ac.uk)
 
 | Tools and Technologies |   |
