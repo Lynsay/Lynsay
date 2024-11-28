@@ -1,7 +1,7 @@
 ## Hello, I'm Dr Lynsay Shepherd
 
 ### About Me
-* 👩‍💻 Senior Lecturer in Cybersecurity and Human-Computer Interaction
+* 👩‍💻 Reader in Cybersecurity and Human-Computer Interaction
 * 🌍 Research page: [https://lynsay.me](https://lynsay.me)
 * 🎓 Research interests: human-computer interaction, cybersecurity, usable security, eye tracking, web technologies, game technologies.
 * 📝 If you are interested in collaboration or pursing a PhD in Human-Computer Interaction with games technologies or cybersecurity, please get in touch: [lynsay.shepherd@abertay.ac.uk](mailto:lynsay.shepherd@abertay.ac.uk)
